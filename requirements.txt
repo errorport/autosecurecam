@@ -1,0 +1,3 @@
+synthesizer
+pyaudio
+opencv_python
