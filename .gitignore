@@ -1,3 +1,4 @@
 detections/*
 autosec_events.log
+__pycache__/
 
